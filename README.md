@@ -1,4 +1,2 @@
-## Research Article Template
-이미지를 클릭하면 PDF 파일을 확인할 수 있습니다.
-
-[![Research Article Template Preview](./preview_image.png)](./Rho_Class___Research_Article_Template.pdf)
+## Template
+[![View PDF](https://img.shields.io/badge/View-PDF_Template-red?style=for-the-badge&logo=adobeacrobatreader)](./Rho_Class___Research_Article_Template.pdf)
